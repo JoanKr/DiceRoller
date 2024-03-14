@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="roll">Roll!</string>
+    <string name="settings_menu_label">Settings</string>
+    <string name="num_dice_key" />
+    <string name="hold_enable_key" />
+</resources>
